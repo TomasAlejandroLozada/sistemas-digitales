@@ -1,0 +1,2 @@
+INSERT INTO peliculas (titulo, actor, duracion) VALUES
+(NULL, 'Sin titulo', 100);
