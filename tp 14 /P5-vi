@@ -1,0 +1,2 @@
+INSERT INTO peliculas (codigo, titulo, actor, duracion) VALUES
+(NULL, 'Elsa y Fred', 'China Zorrilla', 90);
