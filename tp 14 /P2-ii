@@ -1,0 +1,7 @@
+CREATE TABLE articulos (
+    codigo INTEGER,
+    nombre VARCHAR(20),
+    descripcion VARCHAR(30),
+    precio FLOAT,
+    cantidad INTEGER
+);
