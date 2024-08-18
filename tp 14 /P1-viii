@@ -1,0 +1,3 @@
+UPDATE libros
+SET precio = 2700
+WHERE autor = 'Mario Molina';
