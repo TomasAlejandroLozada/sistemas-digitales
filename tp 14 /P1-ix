@@ -1,0 +1,3 @@
+UPDATE libros
+SET editorial = 'Emece S.A.'
+WHERE editorial = 'Emece';
