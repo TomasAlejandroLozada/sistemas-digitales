@@ -1,0 +1,2 @@
+INSERT INTO medicamentos (codigo, nombre, laboratorio, precio, cantidad) VALUES
+(1, 'Ibuprofeno', 'Pfizer', 3.50, 150);
