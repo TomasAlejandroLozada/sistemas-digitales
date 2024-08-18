@@ -1,0 +1,6 @@
+CREATE TABLE libros (
+    titulo VARCHAR(20),
+    autor VARCHAR(30),
+    editorial VARCHAR(15),
+    precio FLOAT
+);
