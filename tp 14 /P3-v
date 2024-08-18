@@ -1,0 +1,3 @@
+INSERT INTO alumnos (legajo, documento, apellido, nombre, domicilio) VALUES
+('C123', '30123456', 'Garcia', 'Juan', 'Lavalle 123'),
+('D234', '32123456', 'Garcia', 'Juan', 'San Martin 456');
