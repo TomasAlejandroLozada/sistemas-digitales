@@ -1,0 +1,1 @@
+UPDATE peliculas SET actor = 'Desconocido' WHERE actor = '';
