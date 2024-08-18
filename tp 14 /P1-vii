@@ -1,0 +1,3 @@
+UPDATE libros
+SET autor = 'Adrian Paenza'
+WHERE autor = 'Paenza';
