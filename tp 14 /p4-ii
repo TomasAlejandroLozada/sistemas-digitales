@@ -1,0 +1,8 @@
+CREATE TABLE medicamentos (
+    codigo INTEGER AUTO_INCREMENT,
+    nombre VARCHAR(20),
+    laboratorio VARCHAR(20),
+    precio FLOAT,
+    cantidad INTEGER,
+    PRIMARY KEY (codigo)
+);
