@@ -1,0 +1,2 @@
+INSERT INTO peliculas (codigo, titulo, actor, duracion) VALUES
+(0, '', '', 0);
