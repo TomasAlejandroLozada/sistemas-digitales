@@ -1,0 +1,3 @@
+UPDATE articulos
+SET precio = 400
+WHERE descripcion = 'Epson Stylus C45';
