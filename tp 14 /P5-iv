@@ -1,0 +1,7 @@
+INSERT INTO peliculas (titulo, actor, duracion) VALUES
+('Mision imposible', 'Tom Cruise', 120),
+('Harry Potter y la piedra filosofal', 'Daniel R.', 180),
+('Harry Potter y la camara secreta', 'Daniel R.', 190),
+('Mision imposible 2', 'Tom Cruise', 150),
+('Titanic', 'L. Di Caprio', 220),
+('Mujer bonita', 'R. Gere-J. Roberts', 200);
