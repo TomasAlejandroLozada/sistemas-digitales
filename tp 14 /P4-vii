@@ -1,0 +1,2 @@
+INSERT INTO medicamentos (codigo, nombre, laboratorio, precio, cantidad) VALUES
+(12, 'Paracetamol 500', 'Bago', 1.90, 200);
