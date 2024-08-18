@@ -1,0 +1,4 @@
+INSERT INTO medicamentos (nombre, laboratorio, precio, cantidad) VALUES
+('Sertal', 'Roche', 5.20, 100),
+('Buscapina', 'Roche', 4.10, 200),
+('Amoxidal 500', 'Bayer', 15.60, 100);
