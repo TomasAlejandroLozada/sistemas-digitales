@@ -1,0 +1,6 @@
+INSERT INTO libros (titulo, autor, editorial, precio) VALUES
+('El aleph', 'Borges', 'Planeta', 5550.00),
+('Martin Fierro', 'Jose Hernandez', 'Emece', 2500.50),
+('Aprenda PHP', 'Mario Molina', 'Emece', 2500.00),
+('Cervantes y el quijote', 'Borges', 'Paidos', 5325.00),
+('Matematica estas ahi', 'Paenza', 'Paidos', 4870.80);
