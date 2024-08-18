@@ -1,0 +1,2 @@
+INSERT INTO peliculas (titulo, actor, duracion) VALUES
+('Mr. Johns', NULL, NULL);
